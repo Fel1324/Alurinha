@@ -11,17 +11,17 @@
 <p>
 
 ##  Tópicos
-- [Imagem do projeto](#📷-imagem-do-projeto)
+- [📷 Imagem do projeto](#📷-imagem-do-projeto)
 
-- [Descrição do projeto](#💻-descrição-do-projeto)
+- [💻 Descrição do projeto](#💻-descrição-do-projeto)
 
-- [Status do projeto](#🔨-status-do-projeto)
+- [🔨 Status do projeto](#🔨-status-do-projeto)
 
-- [Acesso ao projeto](#👉-acesso-ao-projeto)
+- [👉 Acesso ao projeto](#👉-acesso-ao-projeto)
 
-- [Tecnologias utilizadas](#🔥-tecnologias-utilizadas)
+- [🔥 Tecnologias utilizadas](#🔥-tecnologias-utilizadas)
 
-- [Licença](#💾-licença)
+- [💾 Licença](#💾-licença)
 
 <br>
 
