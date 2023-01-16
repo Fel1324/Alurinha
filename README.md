@@ -11,21 +11,21 @@
 <p>
 
 ##  Tópicos
-- [📷 Imagem do projeto](#📷-imagem-do-projeto)
+- [Imagem do projeto](#imagem-do-projeto)
 
-- [💻 Descrição do projeto](#💻-descrição-do-projeto)
+- [Descrição do projeto](#descrição-do-projeto)
 
-- [🔨 Status do projeto](#🔨-status-do-projeto)
+- [Status do projeto](#status-do-projeto)
 
-- [👉 Acesso ao projeto](#👉-acesso-ao-projeto)
+- [Acesso ao projeto](#acesso-ao-projeto)
 
-- [🔥 Tecnologias utilizadas](#🔥-tecnologias-utilizadas)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-- [💾 Licença](#💾-licença)
+- [Licença](#licença)
 
 <br>
 
-## 📷 Imagem do projeto
+## Imagem do projeto
 
 <p align="center">
   <img alt="Print da interface da Alurinha" src=".github/preview.jpg" width="100%">
@@ -33,7 +33,7 @@
 
 ---
 
-## 💻 Descrição do projeto
+## Descrição do projeto
 
 <p align="justify">O projeto é uma plataforma de cursos e videoaulas online da área de tecnologia, possui diversos cursos envolvendo os campos de Front-End, Back-End, Frameworks e Banco de dados.
 
@@ -44,21 +44,21 @@ No campo de <strong>Frameworks</strong> a plataforma conta com cursos de "Django
 ---
 <br>
 
-## 🔨 Status do projeto
+## Status do projeto
 
 <h4 style="text-transform: uppercase; color: #0F0">✔️ Projeto finalizado</h4>
 
 ---
 <br>
 
-## 👉 Acesso ao projeto
+## Acesso ao projeto
 
 O projeto pode ser acessado [aqui](https://fel1324.github.io/Alurinha/)
 
 ---
 <br>
 
-## 🔥 Tecnologias usadas
+## Tecnologias usadas
 
 * HTML e CSS
 * Git e Github
@@ -66,6 +66,6 @@ O projeto pode ser acessado [aqui](https://fel1324.github.io/Alurinha/)
 ---
 <br>
 
-## 💾 Licença
+## Licença
 
 Esse projeto está sob a licença MIT.
