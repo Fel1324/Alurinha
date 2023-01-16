@@ -58,7 +58,7 @@ O projeto pode ser acessado [aqui](https://fel1324.github.io/Alurinha/)
 ---
 <br>
 
-## Tecnologias usadas
+## Tecnologias utilizadas
 
 * HTML e CSS
 * Git e Github
